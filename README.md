@@ -94,10 +94,6 @@ I've identified several promising directions for future research:
 - Deep learning approaches for feature extraction from raw telemetry data
 - Explainability enhancements for security operations teams
 
-## 👥 Contributors
-
-- **Nirmal Sai Swaroop J** - Learning Data Science Student
-- **IIT Madras Data Science Program** - Academic Support
 
 ## 📄 License
 
@@ -105,12 +101,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgments
 
-- IIT Madras for the excellent Data Science curriculum
 - Open-source ML libraries that made this analysis possible
 
 ## 🌐 Connect with Me
 
-- LinkedIn: [Profile](https://www.linkedin.com/in/nirmal-sai-swaroop-janapaneedi-4aa5632a7/)
+- LinkedIn: [Profile](https://www.linkedin.com/in/saideep-rangoni-54abb9300/)
 
 ## 💬 Thank You!
 
